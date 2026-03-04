@@ -1,0 +1,5 @@
+[
+  { "id": "mao", "name": "Mão", "duration": 60, "price": 50 },
+  { "id": "pe", "name": "Pé", "duration": 50, "price": 45 },
+  { "id": "combo", "name": "Combo Mão + Pé", "duration": 110, "price": 85 }
+]
